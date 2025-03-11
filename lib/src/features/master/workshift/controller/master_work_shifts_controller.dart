@@ -1,0 +1,20 @@
+import 'package:belle/src/utils/utils.dart';
+import 'package:get_it/get_it.dart';
+
+import '../../master.dart';
+
+class MasterWorkShiftsController extends BaseController<MasterWorkShiftDto> {
+  final _repository = GetIt.instance<MasterWorkShiftRepository>();
+
+  Future<void> fetchWorkShifts() async {
+    await loadInitialListData(
+      ({int? size, int? number}) => _repository.fetchWorkShifts(),
+    );
+  }
+
+  // Future<void> deleteWorkShift(int? id) async {
+  //   await postData(
+  //     ({int? size, int? number}) => _repository.fetchWorkShifts(),
+  //   );
+  // }
+}

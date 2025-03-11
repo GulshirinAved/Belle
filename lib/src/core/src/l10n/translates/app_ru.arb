@@ -1,0 +1,258 @@
+{
+  "locale": "{lang, select, ru{Русский} tk{Türkmen} en{English} other{Другое}}",
+  "@locale": {
+    "placeholders": {
+      "lang": {
+        "type": "String"
+      }
+    }
+  },
+  "snack_title": "{message, select, success{Успешно} warning{Предупреждение} message{Сообщение} error{Ошибка} other{Другое}}",
+  "@snack_title": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "client": "Клиент",
+  "master": "Мастер",
+  "show": "Показать",
+  "empty": "Список пуст",
+  "retry": "Повторить",
+  "error_occurred": "Похоже, возникла проблема. Убедитесь, что ваш интернет работает",
+  "phone_number": "Номер телефона",
+  "password": "Пароль",
+  "required": "Обязательное поле",
+  "phone_between": "Номер телефона должен быть в диапазоне от {start_range} до {end_range}.",
+  "@phone_between": {
+    "placeholders": {
+      "start_range": {
+        "type": "String"
+      },
+      "end_range": {
+        "type": "String"
+      }
+    }
+  },
+  "yes": "Да",
+  "no": "Нет",
+  "edit": "Редактировать",
+  "delete": "Удалить",
+  "notifications": "Уведомления",
+  "no_notifications": "У вас пока нет уведомлений.",
+  "name_surname": "Имя и фамилия",
+  "confirm": "Подтвердить",
+  "enter_info_to_contact": "Пожалуйста, введите ваше имя и номер телефона, чтобы мастер мог связаться с вами",
+  "request_sent_success": "Ваша заявка успешно отправлена.",
+  "register_to_see_status": "Если вы хотите узнать статус, пожалуйста, зарегистрируйтесь",
+  "register_to_see_favorites": "Пожалуйста, зарегистрируйтесь/войдите, чтобы увидеть избранное",
+  "show_request_status": "Показать статус заявки",
+  "register": "Зарегистрироваться",
+  "want_to_delete": "Вы уверены, что хотите удалить?",
+  "return_to_main": "Вернуться на главную",
+  "continue_title": "Продолжить",
+  "choose_language": "Выбрать язык",
+  "choose_theme": "Выбрать тему",
+  "for_women": "Женщинам",
+  "for_men": "Мужчинам",
+  "woman": "Женщина",
+  "man": "Мужчина",
+  "top_rated_stylist": "Лучшие мастера в приложении",
+  "see_all": "Посмотреть все",
+  "profile": "Профиль",
+  "new_masters": "Новые мастера в приложении",
+  "explore_services": "Просмотреть услуги",
+  "no_categories": "Нет категорий",
+  "sort": "Сортировка",
+  "filter": "Фильтр",
+  "book_now": "Забронировать сейчас",
+  "apply": "Применить",
+  "delete_all": "Удалить все",
+  "reset": "Сбросить",
+  "sort_by": "Сортировать по {name} ({type, select, asc{По возрастанию} desc{По убыванию} other{Другое}})",
+  "@sort_by": {
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Name"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "by_price": "Цена",
+  "by_rating": "Лучший рейтинг",
+  "reviews": "Отзывы",
+  "my_services": "Мои услуги",
+  "about_me": "Обо мне",
+  "choose": "Выбрать",
+  "chosen": "Выбрано",
+  "choose_date": "Выберите дату",
+  "working_hours": "Рабочие часы",
+  "home": "На дому",
+  "explore": "Просмотреть",
+  "clients": "Клиенты",
+  "favorites": "Избранное",
+  "report": "Пожаловаться",
+  "booking": "Бронирование",
+  "total_time": "Общее время",
+  "total_payment": "Общая сумма",
+  "add_more": "Добавить ещё",
+  "choose_your_day": "Выберите день",
+  "show_calendar": "Показать календарь",
+  "service_location": "Место оказания услуги",
+  "choose_time_for_services": "Выберите время оказания услуг(и)",
+  "chosen_services": "Выбрано {count, select, 1{1 услуга} other {{count} услуг(и)}}",
+  "@chosen_services": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "booking_status": "{status, select, reschedule{Перезаписано} cancelled{Отменено} confirmed{Подтверждено} waiting{Ожидание} clientArrived{Клиент прибыл} completed{Завершено} other{Не найдено}}",
+  "@booking_status": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "read": "Прочитано",
+  "details": "Подробности",
+  "call_title": "Позвонить",
+  "search": "Поиск",
+  "send_code": "Отправить код",
+  "login": "Войти",
+  "already_user": "Уже зарегистрированы?",
+  "dont_have_account": "Нет аккаунта?",
+  "agree_with_policy": "Я согласен с Пользовательским соглашением; Политикой конфиденциальности и Договором с Мастерами",
+  "you": "Вы",
+  "service_locations": "{location, select, in_salon{В салоне} away{На дому} other{Другое}}",
+  "@service_locations": {
+    "placeholders": {
+      "location": {
+        "type": "String"
+      }
+    }
+  },
+  "first_name": "Имя",
+  "last_name": "Фамилия",
+  "we_sent_otp_code": "Мы отправили сообщение с кодом подтверждения на ваш номер",
+  "please_check_your_phone": "Пожалуйста, проверьте ваш номер телефона +993 {phone_prefix} ****{phone}",
+  "@please_check_your_phone": {
+    "placeholders": {
+      "phone_prefix": {
+        "type": "String"
+      },
+      "phone": {
+        "type": "String"
+      }
+    }
+  },
+  "wrong_code": "Неверный код",
+  "send_code_again": "Отправить код повторно через",
+  "resend_code": "Повторно отправить код",
+  "user_agreement": "Пользовательское соглашение",
+  "master_contract": "Договор с Мастерами",
+  "privacy": "Политика конфиденциальности",
+  "my_bookings": "Мои записи",
+  "active": "Активные",
+  "history": "История",
+  "no_bookings": "У вас пока нет истории бронирований",
+  "booking_main_info": "Основная информация о записи",
+  "all": "Все",
+  "know_languages": "Знание языков",
+  "app_version": "Версия приложения",
+  "delete_account": "Удалить аккаунт",
+  "contact_us": "Связаться с нами",
+  "personal_info": "Личная информация",
+  "address": "Адрес",
+  "save": "Сохранить",
+  "main_profile": "Основной профиль",
+  "did_not_find": "Не нашли то, что искали?",
+  "register_to_suggest_service": "Вы сможете предложить новую категорию после регистрации",
+  "email": "Электронная почта",
+  "your_gender": "Ваш пол",
+  "you_can_change_once_per_month": "Вы можете изменить этот параметр один раз в месяц",
+  "logout": "Выйти",
+  "add_services": "Добавить услуги",
+  "portfolio": "Портфолио",
+  "time": "Время",
+  "price": "Цена",
+  "from": "От",
+  "to": "До",
+  "make_main": "Сделать основной",
+  "service_name": "Название услуги",
+  "service_duration": "Продолжительность услуги",
+  "service_description": "Описание услуги (необязательно)",
+  "fixed_price": "Фиксированная цена",
+  "price_range": "Диапазон цен",
+  "min_price": "Минимальная цена",
+  "max_price": "Максимальная цена",
+  "choose_service_category": "Выберите категорию услуги",
+  "delete_service": "Удалить услугу",
+  "delete_service_desc": "Вы уверены, что хотите удалить эту услугу?",
+  "edit_service": "Редактировать услугу",
+  "vacation": "Отпуск/Время отдыха",
+  "duration": "Продолжительность",
+  "working_days": "Рабочие дни",
+  "date_start": "Дата начала",
+  "break_time": "Перерыв",
+  "expired_date": "Дата окончания",
+  "not_working_days": "Нерабочие дни",
+  "reason": "Причина",
+  "schedule": "Расписание",
+  "choose_schedule_start_time": "Выберите время начала расписания",
+  "choose_schedule_end_time": "Выберите время окончания расписания",
+
+  "cancel": "Отменить",
+
+  "choose_break_start_time": "Выберите время начала перерыва",
+  "choose_break_end_time": "Выберите время окончания перерыва",
+
+  "choose_schedule_start_date": "Выберите дату начала расписания",
+
+  "choose_schedule_range": "Выберите диапазон расписания",
+  "choose_days": "Выберите дни",
+  "frequency": "Частота",
+  "choose_reason": "Выберите причину",
+  "free_slots_today": "Свободные слоты сегодня",
+  "new_message": "У вас новое сообщение",
+  "ask_to_reschedule": "Попросить о перезаписи",
+  "reschedule": "Перезаписать",
+
+  "hour_short": "ч",
+  "minute_short": "мин",
+  "this_will_affects_client_search": "Это повлияет на результаты поиска клиента",
+  "pick_avatar": "Выбрать аватар",
+  "personal_info_updated": "Личная информация успешно обновлена",
+  "avatar_updated": "Аватар успешно обновлен",
+  "avatar_deleted": "Аватар успешно удален",
+  "work_location": "Место работы",
+  "select_region": "Выберите регион",
+  "select_city": "Выберите город",
+  "add_portfolio_images": "Добавить изображения в портфолио",
+
+  "portfolio_images_added_successfully": "Изображения портфолио успешно добавлены",
+  "portfolio_images_deleted_successfully": "Изображения портфолио успешно удалены",
+
+  "date": "Дата",
+  "services": "Услуги",
+  "status": "Статус",
+
+  "text_title": "Написать",
+  "complete": "Завершено",
+  "add_new_client": "Добавить клиента",
+
+  "choose_day_for_reschedule":"Выберите день для переноса",
+  "choose_your_day":"Выберите свой день",
+
+  "cancel_booking":"Отмена брони",
+  "confirm_cancel_booking": "Вы точно хотите отменить свой бронь?",
+  "return_text":"Возврат"
+
+
+}

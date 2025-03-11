@@ -1,0 +1,259 @@
+{
+  "locale": "{lang, select, ru{Rus} tk{Türkmen} en{Iňlis} other{Başga}}",
+  "@locale": {
+    "placeholders": {
+      "lang": {
+        "type": "String"
+      }
+    }
+  },
+  "snack_title": "{message, select, success{Üstünlik} warning{Duýduryş} message{Habar} error{Ýalňyşlyk} other{Başga}}",
+  "@snack_title": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "client": "Müşderi",
+  "master": "Master",
+  "show": "Görkez",
+  "empty": "Spisok boş",
+  "retry": "Gaýtadan",
+  "error_occurred": "Näsazlyk ýüze çykdy. Internet aragatnaşygyňyzy barlaň",
+  "phone_number": "Telefon belgisi",
+  "password": "Açar sözi",
+  "required": "Hökmany",
+  "phone_between": "Telefon belgiňiz {start_range} we {end_range} aralygynda bolmaly.",
+  "@phone_between": {
+    "placeholders": {
+      "start_range": {
+        "type": "String"
+      },
+      "end_range": {
+        "type": "String"
+      }
+    }
+  },
+  "yes": "Hawa",
+  "no": "Ýok",
+  "edit": "Üýtget",
+  "delete": "Poz",
+  "notifications": "Ýatlamalar",
+  "no_notifications": "Häzirki wagtda duýduryş ýok.",
+  "name_surname": "Adyňyz we familiýaňyz",
+  "confirm": "Tassykla",
+  "enter_info_to_contact": "Master siziň bilen habarlaşar ýaly, adyňyzy we telefon belgiňizi giriziň",
+  "request_sent_success": "Ýüz tutmaňyz üstünlikli iberildi.",
+  "register_to_see_status": "Ýagdaýyny görmek üçin, hasaba duruň",
+  "register_to_see_favorites": "Halanlanylanlary görmek üçin hasaba duruň/giriň",
+  "show_request_status": "Ýüz tutmaň ýagdaýyny görkez",
+  "register": "Hasaba durmak",
+  "want_to_delete": "Pozmak isleýärsiňizmi?",
+  "return_to_main": "Baş sahypa dolan",
+  "continue_title": "Dowam et",
+  "choose_language": "Dil saýla",
+  "choose_theme": "Tema saýla",
+  "for_women": "Aýallara",
+  "for_men": "Erkeklere",
+  "woman": "Aýal",
+  "man": "Erkek",
+  "top_rated_stylist": "Iň gowy masterler",
+  "see_all": "Hemmesi",
+  "profile": "Profil",
+  "new_masters": "Täze masterlar",
+  "explore_services": "Hyzmatlary gör",
+  "no_categories": "Kategoriýa ýok",
+  "sort": "Tertiple",
+  "filter": "Filtr",
+  "book_now": "Häzir belle",
+  "apply": "Giriz",
+  "delete_all": "Hemmesini poz",
+  "reset": "Täzeden düz",
+  "sort_by": "{name} boýunça tertiple ({type, select, asc{Ösýän tertipde} desc{Kemelýän tertipde} other{Başga}})",
+  "@sort_by": {
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Ady"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "by_price": "Bahasy",
+  "by_rating": "Reýtingi",
+  "reviews": "Teswirler",
+  "my_services": "Hyzmatlarym",
+  "about_me": "Men barada",
+  "choose": "Saýla",
+  "chosen": "Saýlandy",
+  "choose_date": "Senäni saýla",
+  "working_hours": "Iş wagty",
+  "home": "Öýde",
+  "explore": "Gözle",
+  "clients": "Müşderiler",
+  "favorites": "Halanlarym",
+  "report": "Şikaýat etmek",
+  "booking": "Bellemek",
+  "total_time": "Jemi wagty",
+  "total_payment": "Jemi töleg",
+  "add_more": "Goşmaça goş",
+  "choose_your_day": "Güni saýla",
+  "show_calendar": "Kalendary görkez",
+  "service_location": "Hyzmat ýeri",
+  "choose_time_for_services": "Hyzmat(lar) üçin wagt saýlaň",
+  "chosen_services": "{count, select, 1{1 hyzmat} other {{count} hyzmat}} saýlandy",
+  "@chosen_services": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "booking_status": "{status, select, reschedule{Täzeden bellik} cancelled{Ýatyryldy} confirmed{Tassyklandy} waiting{Garaşylýar} clientArrived{Müşderi geldi} completed{Tamamlandy} other{Tapylmady}}",
+  "@booking_status": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "read": "Okaldy",
+  "details": "Giňişleýin",
+  "call_title": "Jaň et",
+  "search": "Gözleg",
+  "send_code": "Kody iber",
+  "login": "Giriş",
+  "already_user": "Hasabyňyz barmy?",
+  "dont_have_account": "Hasabyňyz ýokmy?",
+  "agree_with_policy": "Men Ulanyjy şertnamasyny; Gizlinlik syýasatyny we Masterler bilen Şertnamany kabul edýärin",
+  "you": "Siz",
+  "service_locations": "{location, select, in_salon{Salonda} away{Öýde} other{Başga}}",
+  "@service_locations": {
+    "placeholders": {
+      "location": {
+        "type": "String"
+      }
+    }
+  },
+  "first_name": "Ady",
+  "last_name": "Familiýasy",
+  "we_sent_otp_code": "Tassyklama kodyny telefon belgiňize iberdik",
+  "please_check_your_phone": "+993 {phone_prefix} ****{phone} belgiňizi barlaň",
+  "@please_check_your_phone": {
+    "placeholders": {
+      "phone_prefix": {
+        "type": "String"
+      },
+      "phone": {
+        "type": "String"
+      }
+    }
+  },
+  "wrong_code": "Kod ýalňyş",
+  "send_code_again": "Kody täzeden iber",
+  "resend_code": "Täzeden kody iber",
+  "user_agreement": "Ulanyjy şertnamasy",
+  "master_contract": "Ussatlar bilen şertnama",
+  "privacy": "Gizlinlik syýasaty",
+  "my_bookings": "Belliklerim",
+  "active": "Aktiw",
+  "history": "Taryh",
+  "no_bookings": "Häzirki wagtda bellik ýok",
+  "booking_main_info": "Bellik barada esasy maglumat",
+  "all": "Hemmesi",
+  "know_languages": "Bilýän dilleri",
+  "app_version": "Programmanyň wersiýasy",
+  "delete_account": "Hasaby poz",
+  "contact_us": "Biz bilen habarlaşyň",
+  "personal_info": "Şahsy maglumat",
+  "address": "Salgy",
+  "save": "Ýatda sakla",
+  "main_profile": "Esasy profil",
+  "did_not_find": "Gözleýän zadyňyzy tapmadyňyzmy?",
+  "register_to_suggest_service": "Täze kategoriýa teklip etmek üçin hasap açmaly",
+  "email": "E-mail",
+  "your_gender": "Jynsyňyz",
+  "you_can_change_once_per_month": "Bu parametri aýda bir gezek üýtgedip bilersiňiz",
+  "logout": "Hasapdan çyk",
+  "add_services": "Hyzmat goş",
+  "portfolio": "Portfolio",
+  "time": "Wagt",
+  "price": "Baha",
+  "from": "Başlap",
+  "to": "Çenli",
+  "make_main": "Esasy et",
+  "service_name": "Hyzmatyň ady",
+  "service_duration": "Hyzmatyň wagty",
+  "service_description": "Hyzmat barada düşündiriş (hökmany däl)",
+  "fixed_price": "Belli baha",
+  "price_range": "Bahalaryň aralygy",
+  "min_price": "Iň az baha",
+  "max_price": "Iň köp baha",
+  "choose_service_category": "Hyzmat kategoriýasyny saýla",
+  "delete_service": "Hyzmaty poz",
+  "delete_service_desc": "Bu hyzmaty pozmak isleýärsiňizmi?",
+  "edit_service": "Hyzmaty üýtget",
+  "vacation": "Dynç/Rugsat",
+  "duration": "Dowamlylygy",
+  "working_days": "Iş günleri",
+  "date_start": "Başlangyç senesi",
+  "break_time": "Arakesme",
+  "expired_date": "Gutarýan senesi",
+  "not_working_days": "Dynç günleri",
+  "reason": "Sebäbi",
+  "schedule": "Iş tertibi",
+  "choose_schedule_start_time": "Iş tertibiniň başlaýan wagtyny saýla",
+  "choose_schedule_end_time": "Iş tertibiniň gutarýan wagtyny saýla",
+
+  "cancel": "Ýatyr",
+
+  "choose_break_start_time": "Arakesmäniň başlaýan wagtyny saýla",
+  "choose_break_end_time": "Arakesmäniň gutarýan wagtyny saýla",
+
+  "choose_schedule_start_date": "Iş tertibiniň başlangyç senesini saýla",
+
+  "choose_schedule_range": "Tertip araçägini saýla",
+  "choose_days": "Günleri saýla",
+  "frequency": "Ýygylyk",
+  "choose_reason": "Sebäbi saýla",
+  "free_slots_today": "Günüň boş wagtlary",
+  "new_message": "Täze habar",
+  "ask_to_reschedule": "Täzeden bellemegi sora",
+  "reschedule": "Täzeden bellemek",
+  "hour_short": "s.",
+  "minute_short": "min.",
+  "this_will_affects_client_search": "Bu müşderileriň gözleg netijelerine täsir eder",
+  "pick_avatar": "Awatar saýla",
+  "personal_info_updated": "Şahsy maglumatyňyz üstünlikli täzelendi",
+  "avatar_updated": "Awataryňyz üstünlikli täzelendi",
+  "avatar_deleted": "Awataryňyz üstünlikli pozuldy",
+  "work_location": "Iş ýeri",
+  "select_region": "Welaýaty saýla",
+  "select_city": "Şäheri saýla",
+  "add_portfolio_images": "Portfolio suradyny goş",
+
+  "portfolio_images_added_successfully": "Portfolio suratlary üstünlikli goşuldy",
+  "portfolio_images_deleted_successfully": "Portfolio suratlary üstünlikli pozuldy",
+
+  "date": "Sene",
+  "services": "Hyzmatlar",
+  "status": "Ýagdaýy",
+
+  "text_title": "Ýazmak",
+  "complete": "Tamamlamak",
+  "add_new_client": "Müşderi goş",
+
+  "choose_day_for_reschedule": "Täzelemek üçin bir gün saýlaň",
+  "choose_your_day":"Günüňizi saýlaň",
+  "cancel_booking":"Brony aýyrmak",
+  "confirm_cancel_booking": "Siziň bronňyzy hakykatdan hem ýatyrasyňyz gelýärmi?",
+  "return_text":"Gaýdyp barmak"
+
+
+
+
+
+}

@@ -1,0 +1,249 @@
+{
+  "locale": "{lang, select, ru{Русский} tk{Türkmen} en{English} other{Не найдено}}",
+  "@locale": {
+    "placeholders": {
+      "lang": {
+        "type": "String"
+      }
+    }
+  },
+  "snack_title": "{message, select, success{Success} warning{Warning} message{Message} error{Error} other{Не найдено}}",
+  "@snack_title": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "client": "Client",
+  "master": "Master",
+  "show": "Show",
+  "empty": "List is empty",
+  "retry": "Retry",
+  "error_occurred": "Looks like there's a problem. Make sure your internet's working.",
+  "phone_number": "Phone number",
+  "password": "Password",
+  "required": "Required field",
+  "phone_between": "Phone number must be in range of {start_range} - {end_range}.",
+  "@phone_between": {
+    "placeholders": {
+      "start_range": {
+        "type": "String"
+      },
+      "end_range": {
+        "type": "String"
+      }
+    }
+  },
+  "yes": "Yes",
+  "no": "No",
+  "edit": "Edit",
+  "delete": "Delete",
+  "notifications": "Notifications",
+  "no_notifications": "You don't have any notifications yet.",
+  "name_surname": "Name and surname",
+  "confirm": "Confirm",
+  "enter_info_to_contact": "Please enter your name and phone number. So that the master can contact you",
+  "request_sent_success": "Your request has been successfully sent.",
+  "register_to_see_status": "If you want to see your status, please register.",
+  "register_to_see_favorites": "Please Register/Login to see favorites",
+  "show_request_status": "Show request status",
+  "register": "Register",
+  "want_to_delete": "Are you sure want to delete?",
+  "return_to_main": "Return to main",
+  "continue_title": "Continue",
+  "choose_language": "Choose language",
+  "choose_theme": "Choose theme",
+  "for_women": "Women",
+  "for_men": "Men",
+  "woman": "Woman",
+  "man": "Man",
+  "top_rated_stylist": "Top rated stylist",
+  "see_all": "See All",
+  "profile": "Profile",
+  "new_masters": "New masters on Belle",
+  "explore_services": "Explore services",
+  "no_categories": "No categories",
+  "sort": "Sort",
+  "filter": "Filter",
+  "book_now": "Book now",
+  "apply": "Apply",
+  "delete_all": "Delete all",
+  "reset": "Reset",
+  "sort_by": "Sort by {name} ({type, select, asc{Ascending} desc{Descending} other{Other}})",
+  "@sort_by": {
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Name"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "by_price": "Price",
+  "by_rating": "Best rating",
+  "reviews": "Reviews",
+  "my_services": "My services",
+  "about_me": "About me",
+  "choose": "Choose",
+  "chosen": "Chosen",
+  "choose_date": "Choose a date",
+  "working_hours": "Working hours",
+  "home": "Home",
+  "explore": "Explore",
+  "clients": "Clients",
+  "favorites": "Favorites",
+  "report": "Report",
+  "booking": "Booking",
+  "total_time": "Total time",
+  "total_payment": "Total payment",
+  "add_more": "Add more",
+  "choose_your_day": "Choose your day",
+  "show_calendar": "Show calendar",
+  "service_location": "Service location",
+  "choose_time_for_services": "Choose time for selected services",
+  "chosen_services": "Chosen {count, select, 1{1 service} other {{count} services}}",
+  "@chosen_services": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "booking_status": "{status, select, reschedule{Request for re-recording} cancelled{Cancelled} confirmed{Confirmed} waiting{Waiting} clientArrived{Client arrived} completed{Completed} other{Not found}}",
+  "@booking_status": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "read": "Read",
+  "details": "Details",
+  "call_title": "Call",
+  "search": "Search",
+  "send_code": "Send code",
+  "login": "Login",
+  "already_user": "Already a user?",
+  "dont_have_account": "Don't have an account?",
+  "agree_with_policy": "Я согласен с Пользовательским соглашением; Политикой конфиденциальности",
+  "you": "You",
+  "service_locations": "{location, select, in_salon{In salon} away{Away} other{Other}}",
+  "@service_locations": {
+    "placeholders": {
+      "location": {
+        "type": "String"
+      }
+    }
+  },
+  "first_name": "First name",
+  "last_name": "Last name",
+  "we_sent_otp_code": "We have sent a message with a confirmation code to your number.",
+  "please_check_your_phone": "Please check your phone number +993 {phone_prefix} ****{phone}",
+  "@please_check_your_phone": {
+    "placeholders": {
+      "phone_prefix": {
+        "type": "String"
+      },
+      "phone": {
+        "type": "String"
+      }
+    }
+  },
+  "wrong_code": "Wrong code",
+  "send_code_again": "Send the code again in ",
+  "resend_code": "Resend code",
+  "user_agreement": "User agreement",
+  "master_contract": "Contract with masters",
+  "privacy": "Privacy policy",
+  "my_bookings": "My bookings",
+  "active": "Active",
+  "history": "History",
+  "no_bookings": "You don't have a booking history yet.",
+  "booking_main_info": "Booking main info",
+  "all": "All",
+  "know_languages": "Know languages",
+  "app_version": "App version",
+  "delete_account": "Delete account",
+  "contact_us": "Contact Us",
+  "personal_info": "Personal info",
+  "address": "Address",
+  "save": "Save",
+  "main_profile": "Main profile",
+  "did_not_find": "Didn’t find what you were looking for?",
+  "register_to_suggest_service": "You can suggest a new category after registering.",
+  "email": "Email",
+  "your_gender": "Your gender",
+  "you_can_change_once_per_month": "You can change this option once per month",
+  "logout": "Logout",
+  "add_services": "Add services",
+  "portfolio": "Portfolio",
+  "time": "Time",
+  "price": "Price",
+  "from": "From",
+  "to": "To",
+  "make_main": "Make main",
+  "service_name": "Service name",
+  "service_duration": "Service duration",
+  "service_description": "Service description (optional)",
+  "fixed_price": "Fixed price",
+  "price_range": "Price range",
+  "min_price": "Min price",
+  "max_price": "Max price",
+  "choose_service_category": "Choose service category",
+  "delete_service": "Delete service",
+  "delete_service_desc": "Are you sure to delete this service?",
+  "edit_service": "Edit service",
+  "vacation": "Vacation/Time off",
+  "duration": "Duration",
+  "working_days": "Working days",
+  "date_start": "Date start",
+  "break_time": "Break",
+  "expired_date": "Expired date",
+  "not_working_days": "Not working days",
+  "reason": "Reason",
+  "schedule": "Schedule",
+  "choose_schedule_start_time": "Choose schedule start time",
+  "choose_schedule_end_time": "Choose schedule end time",
+
+  "cancel": "Cancel",
+
+  "choose_break_start_time": "Choose break start time",
+  "choose_break_end_time": "Choose break end time",
+
+  "choose_schedule_start_date": "Choose schedule start date",
+  "choose_schedule_range": "Choose schedule range",
+  "choose_days": "Choose days",
+  "frequency": "Frequency",
+  "choose_reason": "Choose reason",
+  "free_slots_today": "Free slots today",
+  "new_message": "You've just got a new message",
+  "ask_to_reschedule": "Ask to reschedule",
+  "reschedule": "Reschedule",
+  "hour_short": "h",
+  "minute_short": "min",
+  "this_will_affects_client_search": "This will affect the client's search results",
+  "pick_avatar": "Pick avatar",
+  "personal_info_updated": "Personal info updated successfully",
+  "avatar_updated": "Avatar was updated successfully",
+  "avatar_deleted": "Avatar was deleted successfully",
+  "work_location": "Work location",
+  "select_region": "Select region",
+  "select_city": "Select city",
+  "add_portfolio_images": "Add portfolio images",
+  "portfolio_images_added_successfully": "Portfolio images added successfully",
+  "portfolio_images_deleted_successfully": "Portfolio images deleted successfully",
+  "date": "Date",
+  "services": "Services",
+  "status": "Status",
+  "text_title": "Text",
+  "complete": "Complete",
+  "add_new_client": "Add new client",
+  "choose_day_for_reschedule":"Select a day to rescheduling",
+  "choose_your_day":"Choose your day",
+  "cancel_booking":"Cancel booking",
+  "confirm_cancel_booking": "Are you sure you want to cancel your booking?",
+  "return_text":"Return"
+}

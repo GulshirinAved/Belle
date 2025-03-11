@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104638744852",
+    "project_id": "belle-a3fd2",
+    "storage_bucket": "belle-a3fd2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104638744852:android:4bda7c545a2d736b89da01",
+        "android_client_info": {
+          "package_name": "com.imdatelektronika.belle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWc43pGdnFyZdbg_dOnznM5jCLgiynJF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

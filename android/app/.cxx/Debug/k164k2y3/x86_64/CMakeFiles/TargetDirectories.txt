@@ -1,0 +1,2 @@
+C:/Users/Windows 11 Pro/StudioProjects/belle-master/android/app/.cxx/Debug/k164k2y3/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Windows 11 Pro/StudioProjects/belle-master/android/app/.cxx/Debug/k164k2y3/x86_64/CMakeFiles/rebuild_cache.dir

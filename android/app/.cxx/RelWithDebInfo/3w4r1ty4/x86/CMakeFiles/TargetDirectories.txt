@@ -1,0 +1,2 @@
+/Users/muhammedartykov/development/flutter_projects/belle/android/app/.cxx/RelWithDebInfo/3w4r1ty4/x86/CMakeFiles/edit_cache.dir
+/Users/muhammedartykov/development/flutter_projects/belle/android/app/.cxx/RelWithDebInfo/3w4r1ty4/x86/CMakeFiles/rebuild_cache.dir
